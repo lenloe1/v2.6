@@ -1,0 +1,2 @@
+What's new in Bluetooth SDK 2.12.2.0 in 19Q2 GSDK (Gecko SDK Suite 2.6.2.0)
+  * Selected quality improvements and bug fixes
